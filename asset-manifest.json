@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ashishyay.github.io/portfoliov1/static/css/main.38820521.css",
+    "main.js": "/ashishyay.github.io/portfoliov1/static/js/main.219c76eb.js",
+    "static/media/InvestorPulse.webp": "/ashishyay.github.io/portfoliov1/static/media/InvestorPulse.46f9172246ef30eda92f.webp",
+    "static/media/EquityComps.webp": "/ashishyay.github.io/portfoliov1/static/media/EquityComps.bf6c5a3ef0e0d99b8abe.webp",
+    "static/media/profile-pic.webp": "/ashishyay.github.io/portfoliov1/static/media/profile-pic.802908d8ef35600ba59f.webp",
+    "index.html": "/ashishyay.github.io/portfoliov1/index.html",
+    "main.38820521.css.map": "/ashishyay.github.io/portfoliov1/static/css/main.38820521.css.map",
+    "main.219c76eb.js.map": "/ashishyay.github.io/portfoliov1/static/js/main.219c76eb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38820521.css",
+    "static/js/main.219c76eb.js"
+  ]
+}
