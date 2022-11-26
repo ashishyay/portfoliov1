@@ -2,7 +2,7 @@
   "homepage": "https:ashishyay.github.io/portfoliov1",
   "name": "portfolio-v2",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@emailjs/browser": "^3.6.2",
     "@testing-library/jest-dom": "^5.14.1",
